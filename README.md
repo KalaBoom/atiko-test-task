@@ -2,20 +2,14 @@
 
 Тестовое задание
 
-## Project Setup
+## Установка зависимостей
 
 ```sh
 npm install
 ```
 
-### Compile and Hot-Reload for Development
+## Запуск проекта
 
 ```sh
 npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
 ```
